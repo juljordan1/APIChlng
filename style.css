@@ -1,0 +1,37 @@
+/* General Setup*/
+
+html, body {
+    margin: 0;
+    padding: 0;
+
+}
+
+html {
+    font-size: 14px;
+}
+
+body {
+    background-color: green;
+    font-style: oblique;
+}
+
+/* Fonts */
+
+/*@font-face {
+    //font-style: oblique;
+    src: inherit
+}
+*/
+
+/* Title */
+
+#catFacts {
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate (-50%, -50%);
+    height: 400px;
+    width: auto;
+}
+    
